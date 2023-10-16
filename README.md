@@ -19,8 +19,8 @@ Activity then slowly reduces and a solar minimum is predicted in about 2030.
 ### Solar Flares
 Solar Flares appear near sunspots.   
 Sunspots are areas that appear dark on the surface of the Sun. They appear dark because they are cooler than other parts of the Sun’s surface. The temperature of a sunspot is still very hot, around 3593 degrees Celsius!  
-Sunspots are relatively cool because they form at areas where magnetic fields are particularly strong. These magnetic fields are so strong that they keep some of the heat within the Sun from reaching the surface.  
-​
+Sunspots are relatively cool because they form at areas where magnetic fields are particularly strong. These magnetic fields are so strong that they keep some of the heat within the Sun from reaching the surface.   
+​<br> 
 The magnetic field lines near sunspots often tangle, cross, and reorganize. This can cause a sudden explosion of energy called a solar flare. Solar flares release a lot of radiation into space.
 This activity can have effects on Earth. For example, eruptions can cause lights in the sky, called aurora, or impact radio communications. Extreme eruptions can even affect electricity grids on Earth.  
 ​
