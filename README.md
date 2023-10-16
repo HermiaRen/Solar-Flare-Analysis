@@ -31,7 +31,7 @@ Forecasting of the solar cycle can help scientists protect our radio communicati
 <br>  
 ​
 ## Data Collection
-To effectively showcase the latest solar cycle data from the NASA website, we made a deliberate choice to present Solar Flare data spanning from the start of the most recent solar cycle up to October 2024.   
+To effectively showcase the latest solar cycle data from the NASA website, we made a deliberate choice to present Solar Flare data spanning from the start of the most recent solar cycle up to October 2023.   
 This data was subsequently archived in a MongoDB database and we extracted the pertinent data fields for our visual representation.  
 The data visualisation aspect is powered by a Python Flask API.
 ​
